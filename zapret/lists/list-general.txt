@@ -1,0 +1,804 @@
+frankerfacez.com
+ffzap.com
+betterttv.net
+7tv.app
+7tv.io
+localizeapi.com
+klipy.com
+stalker-gamma.com
+www.moddb.com
+github.com
+api.github.com
+gist.github.com
+raw.githubusercontent.com
+avatars.githubusercontent.com
+favicons.githubusercontent.com
+github.blog
+github.community
+githubstatus.com
+central.github.com
+octocaptcha.com
+collector.github.com
+objects.githubusercontent.com
+github.io
+faceit.com
+mediafire.com
+www.stalker-gamma.com
+stalker-gamma.com
+www.moddb.com
+moddb.com
+cloudflare-ech.com
+encryptedsni.com
+cloudflareaccess.com
+cloudflareapps.com
+cloudflarebolt.com
+cloudflareclient.com
+cloudflareinsights.com
+cloudflareok.com
+cloudflarepartners.com
+cloudflareportal.com
+cloudflarepreview.com
+cloudflareresolve.com
+cloudflaressl.com
+cloudflarestatus.com
+cloudflarestorage.com
+cloudflarestream.com
+cloudflaretest.com
+cloudfront.net
+dis.gd
+discord-attachments-uploads-prd.storage.googleapis.com
+discord.app
+discord.co
+discord.com
+discord.design
+discord.dev
+discord.gift
+discord.gifts
+discord.gg
+discord.media
+discord.new
+discord.store
+discord.status
+discord-activities.com
+discordactivities.com
+discordapp.com
+discordapp.net
+discordcdn.com
+discordmerch.com
+discordpartygames.com
+discordsays.com
+discordsez.com
+discordstatus.com
+frankerfacez.com
+ffzap.com
+betterttv.net
+7tv.app
+7tv.io
+localizeapi.com
+klipy.com
+roblox.com
+www.roblox.com
+auth.roblox.com
+accountsettings.roblox.com
+assetgame.roblox.com
+assetdelivery.roblox.com
+catalog.roblox.com
+avatar.roblox.com
+itemconfiguration.roblox.com
+economy.roblox.com
+apis.roblox.com
+clientsettings.api.roblox.com
+chat.roblox.com
+voice.roblox.com
+friends.roblox.com
+groups.roblox.com
+notifications.roblox.com
+presence.roblox.com
+realtime.roblox.com
+chatmoderation.roblox.com
+studio.roblox.com
+publish.roblox.com
+develop.roblox.com
+devforum.roblox.com
+setup.rbxcdn.com
+rbxcdn.com
+versioncompatibility.roblox.com
+sitetest.roblox.com
+trades.roblox.com
+translations.roblox.com
+tutorials.roblox.com
+ecs.roblox.com
+gameanalytics.roblox.com
+metrics.roblox.com
+telemetry.roblox.com
+abtesting.roblox.com
+adconfiguration.roblox.com
+ads.roblox.com
+adserver.roblox.com
+adspolicy.roblox.com
+api.roblox.com
+billing.roblox.com
+captcha.roblox.com
+cdn.roblox.com
+chatrealtime.roblox.com
+client-telemetry.roblox.com
+clientsettingscdn.roblox.com
+clicks.roblox.com
+contentstore.roblox.com
+ephemeralcounters.api.roblox.com
+followings.roblox.com
+gamepersistence.roblox.com
+games.roblox.com
+graphql.roblox.com
+groupsmoderation.roblox.com
+inventory.roblox.com
+locale.roblox.com
+localizationtables.roblox.com
+matchmaking.roblox.com
+pointbalancing.roblox.com
+premiumfeatures.roblox.com
+privatemessages.roblox.com
+ratings.roblox.com
+search.roblox.com
+thumbnails.roblox.com
+tix.roblox.com
+translationservice.roblox.com
+users.roblox.com
+usersmoderation.roblox.com
+web.roblox.com
+wiki.roblox.com
+wire.roblox.com
+clientconfig.roblox.com
+config.roblox.com
+crl.roblox.com
+status.roblox.com
+setup.roblox.com
+update.roblox.com
+s3.amazonaws.com
+stun.l.google.com
+stun1.l.google.com
+stun2.l.google.com
+stun3.l.google.com
+stun4.l.google.com
+stun.services.mozilla.com
+global.stun.twilio.com
+turn.twilio.com
+geoip.roblox.com
+geoip.services.roblox.com
+ocsp.digicert.com
+ocsp.verisign.com
+crl.verisign.com
+setup-cdn.roblox.com
+roblox-setup.roblox.com
+roblox-update.roblox.com
+update-cdn.roblox.com
+api.rbxcdn.com
+setup.api.rbxcdn.com
+setup.cache.rbxcdn.com
+cs.rbxcdn.com
+roblox-setup.cache.roblox.com
+roblox-update.cache.roblox.com
+setup.cache.roblox.com
+update.cache.roblox.com
+chat.roblox.com
+gamejoin.roblox.com
+client.roblox.com
+contentdelivery.roblox.com
+economycdn.roblox.com
+chatmoderation.roblox.com
+matchmaking.api.roblox.com
+presence.api.roblox.com
+friends.api.roblox.com
+groups.api.roblox.com
+inventory.api.roblox.com
+catalog.api.roblox.com
+avatar.api.roblox.com
+users.api.roblox.com
+develop.api.roblox.com
+clientsettingscdn.roblox.com
+client-telemetry.roblox.com
+telemetry.roblox.com
+metrics.roblox.com
+gameanalytics.roblox.com
+ecs.roblox.com
+abtesting.roblox.com
+adconfiguration.roblox.com
+ads.roblox.com
+adserver.roblox.com
+adspolicy.roblox.com
+billing.roblox.com
+captcha.roblox.com
+cdn.roblox.com
+contentstore.roblox.com
+ephemeralcounters.api.roblox.com
+followings.roblox.com
+games.roblox.com
+graphql.roblox.com
+groupsmoderation.roblox.com
+itemconfiguration.roblox.com
+locale.roblox.com
+notifications.roblox.com
+pointbalancing.roblox.com
+premiumfeatures.roblox.com
+privatemessages.roblox.com
+ratings.roblox.com
+realtime.roblox.com
+search.roblox.com
+tix.roblox.com
+trades.roblox.com
+tutorials.roblox.com
+usersmoderation.roblox.com
+wiki.roblox.com
+wire.roblox.com
+devforum.api.roblox.com
+akamaized.net
+cloudfront.net
+amazonaws.com
+rblx.com
+robloxapp.com
+robloxgames.com
+robloxlabs.com
+rbx.com
+rbxlabs.com
+rbxcdn.xyz
+rbxcdn.site
+rbxcdn.tech
+rbxcdn.one
+rbxcdn.today
+rbxcdn.world
+rbxcdn.services
+rbxcdn.work
+rbxcdn.space
+rbxcdn.online
+rbxcdn.store
+rbxcdn.fun
+rbxcdn.biz
+rbxcdn.us
+rbxcdn.org
+rbxcdn.net
+rbxcdn.co
+rbxcdn.me
+rbxcdn.tv
+rbxcdn.cc
+rbxcdn.gg
+rbxcdn.dev
+rbxcdn.io
+edgecastcdn.net
+footprint.net
+llnwd.net
+hwcdn.net
+gcdn.co
+g-cdn.net
+cdngc.net
+cdngs.net
+secure.footprint.net
+secure.llnwd.net
+roblox.qq.com
+roblox.cn
+cloudflare-ech.com
+encryptedsni.com
+cloudflareaccess.com
+cloudflareapps.com
+cloudflarebolt.com
+cloudflareclient.com
+cloudflareinsights.com
+cloudflareok.com
+cloudflarepartners.com
+cloudflareportal.com
+cloudflarepreview.com
+cloudflareresolve.com
+cloudflaressl.com
+cloudflarestatus.com
+cloudflarestorage.com
+cloudflarestream.com
+cloudflaretest.com
+cloudfront.net
+dis.gd
+discord-attachments-uploads-prd.storage.googleapis.com
+discord.app
+discord.co
+discord.com
+discord.design
+discord.dev
+discord.gift
+discord.gifts
+discord.gg
+discord.media
+discord.new
+discord.store
+discord.status
+discord-activities.com
+discordactivities.com
+discordapp.com
+discordapp.net
+discordcdn.com
+discordmerch.com
+discordpartygames.com
+discordsays.com
+discordsez.com
+discordstatus.com
+frankerfacez.com
+ffzap.com
+betterttv.net
+7tv.app
+7tv.io
+localizeapi.com
+klipy.com
+cloudflare-ech.com
+encryptedsni.com
+cloudflareaccess.com
+cloudflareapps.com
+cloudflarebolt.com
+cloudflareclient.com
+cloudflareinsights.com
+cloudflareok.com
+cloudflarepartners.com
+cloudflareportal.com
+cloudflarepreview.com
+cloudflareresolve.com
+cloudflaressl.com
+cloudflarestatus.com
+cloudflarestorage.com
+cloudflarestream.com
+cloudflaretest.com
+dis.gd
+discord-attachments-uploads-prd.storage.googleapis.com
+discord.app
+discord.co
+discord.com
+discord.design
+discord.dev
+discord.gift
+discord.gifts
+discord.gg
+discord.media
+discord.new
+discord.store
+discord.status
+discord-activities.com
+discordactivities.com
+discordapp.com
+discordapp.net
+discordcdn.com
+discordmerch.com
+discordpartygames.com
+discordsays.com
+discordsez.com
+frankerfacez.com
+ffzap.com
+betterttv.net
+7tv.app
+7tv.io
+modrinth.com
+speedtest.net
+chatgpt.com
+rule34.xxx
+roblox.com
+www.roblox.com
+auth.roblox.com
+accountsettings.roblox.com
+assetgame.roblox.com
+assetdelivery.roblox.com
+catalog.roblox.com
+avatar.roblox.com
+itemconfiguration.roblox.com
+economy.roblox.com
+apis.roblox.com
+clientsettings.api.roblox.com
+chat.roblox.com
+voice.roblox.com
+friends.roblox.com
+groups.roblox.com
+notifications.roblox.com
+presence.roblox.com
+realtime.roblox.com
+chatmoderation.roblox.com
+studio.roblox.com
+publish.roblox.com
+develop.roblox.com
+devforum.roblox.com
+setup.rbxcdn.com
+rbxcdn.com
+versioncompatibility.roblox.com
+sitetest.roblox.com
+trades.roblox.com
+translations.roblox.com
+tutorials.roblox.com
+ecs.roblox.com
+gameanalytics.roblox.com
+metrics.roblox.com
+telemetry.roblox.com
+abtesting.roblox.com
+adconfiguration.roblox.com
+ads.roblox.com
+adserver.roblox.com
+adspolicy.roblox.com
+api.roblox.com
+billing.roblox.com
+captcha.roblox.com
+cdn.roblox.com
+chatrealtime.roblox.com
+client-telemetry.roblox.com
+clientsettingscdn.roblox.com
+clicks.roblox.com
+contentstore.roblox.com
+ephemeralcounters.api.roblox.com
+followings.roblox.com
+gamepersistence.roblox.com
+games.roblox.com
+graphql.roblox.com
+groupsmoderation.roblox.com
+inventory.roblox.com
+locale.roblox.com
+localizationtables.roblox.com
+matchmaking.roblox.com
+pointbalancing.roblox.com
+premiumfeatures.roblox.com
+privatemessages.roblox.com
+ratings.roblox.com
+search.roblox.com
+thumbnails.roblox.com
+tix.roblox.com
+translationservice.roblox.com
+users.roblox.com
+usersmoderation.roblox.com
+web.roblox.com
+wiki.roblox.com
+wire.roblox.com
+clientconfig.roblox.com
+config.roblox.com
+crl.roblox.com
+status.roblox.com
+setup.roblox.com
+update.roblox.com
+s3.amazonaws.com
+stun.l.google.com
+stun1.l.google.com
+stun2.l.google.com
+stun3.l.google.com
+stun4.l.google.com
+stun.services.mozilla.com
+global.stun.twilio.com
+turn.twilio.com
+geoip.roblox.com
+geoip.services.roblox.com
+ocsp.digicert.com
+ocsp.verisign.com
+crl.verisign.com
+setup-cdn.roblox.com
+roblox-setup.roblox.com
+roblox-update.roblox.com
+update-cdn.roblox.com
+api.rbxcdn.com
+setup.api.rbxcdn.com
+setup.cache.rbxcdn.com
+cs.rbxcdn.com
+roblox-setup.cache.roblox.com
+roblox-update.cache.roblox.com
+setup.cache.roblox.com
+update.cache.roblox.com
+chat.roblox.com
+gamejoin.roblox.com
+client.roblox.com
+contentdelivery.roblox.com
+economycdn.roblox.com
+chatmoderation.roblox.com
+matchmaking.api.roblox.com
+presence.api.roblox.com
+friends.api.roblox.com
+groups.api.roblox.com
+inventory.api.roblox.com
+catalog.api.roblox.com
+avatar.api.roblox.com
+users.api.roblox.com
+develop.api.roblox.com
+clientsettingscdn.roblox.com
+client-telemetry.roblox.com
+telemetry.roblox.com
+metrics.roblox.com
+gameanalytics.roblox.com
+ecs.roblox.com
+abtesting.roblox.com
+adconfiguration.roblox.com
+ads.roblox.com
+adserver.roblox.com
+adspolicy.roblox.com
+billing.roblox.com
+captcha.roblox.com
+cdn.roblox.com
+contentstore.roblox.com
+ephemeralcounters.api.roblox.com
+followings.roblox.com
+games.roblox.com
+graphql.roblox.com
+groupsmoderation.roblox.com
+itemconfiguration.roblox.com
+locale.roblox.com
+notifications.roblox.com
+pointbalancing.roblox.com
+premiumfeatures.roblox.com
+privatemessages.roblox.com
+ratings.roblox.com
+realtime.roblox.com
+search.roblox.com
+tix.roblox.com
+trades.roblox.com
+tutorials.roblox.com
+usersmoderation.roblox.com
+wiki.roblox.com
+wire.roblox.com
+devforum.api.roblox.com
+akamaized.net
+cloudfront.net
+amazonaws.com
+rblx.com
+robloxapp.com
+robloxgames.com
+robloxlabs.com
+rbx.com
+rbxlabs.com
+rbxcdn.xyz
+rbxcdn.site
+rbxcdn.tech
+rbxcdn.one
+rbxcdn.today
+rbxcdn.world
+rbxcdn.services
+rbxcdn.work
+rbxcdn.space
+rbxcdn.online
+rbxcdn.store
+rbxcdn.fun
+rbxcdn.biz
+rbxcdn.us
+rbxcdn.org
+rbxcdn.net
+rbxcdn.co
+rbxcdn.me
+rbxcdn.tv
+rbxcdn.cc
+rbxcdn.gg
+rbxcdn.dev
+rbxcdn.io
+edgecastcdn.net
+footprint.net
+llnwd.net
+hwcdn.net
+gcdn.co
+g-cdn.net
+cdngc.net
+cdngs.net
+secure.footprint.net
+secure.llnwd.netd
+roblox.qq.com
+roblox.cn
+youtube.googleapis.com
+yt3.ggpht.com
+yt4.ggpht.com
+yt3.googleusercontent.com
+googlevideo.com
+jnn-pa.googleapis.com
+stable.dl2.discordapp.net
+wide-youtube.l.google.com
+youtube-nocookie.com
+youtube-ui.l.google.com
+youtube.com
+youtubeembeddedplayer.googleapis.com
+youtubekids.com
+youtubei.googleapis.com
+youtu.be
+yt-video-upload.l.google.com
+ytimg.com
+ytimg.l.google.com
+googlevideo.com
+rr1---sn-5hne6nsd.googlevideo.com
+rr1---sn-ntqe6nee.googlevideo.com
+rr1---sn-q4fl6nzy.googlevideo.com
+rr1---sn-n8v7snl7.googlevideo.com
+rr1---sn-q4flrnss.googlevideo.com
+rr1---sn-q4fl6ndz.googlevideo.com
+rr1---sn-5hneknes.googlevideo.com
+rr1---sn-5hne6nzs.googlevideo.com
+rr1---sn-ntqe6n7r.googlevideo.com
+rr1---sn-gvnuxaxjvh-nbje.googlevideo.com
+rr2---sn-5hne6nsd.googlevideo.com
+rr2---sn-ntqe6nee.googlevideo.com
+rr2---sn-q4fl6nzy.googlevideo.com
+rr2---sn-n8v7snl7.googlevideo.com
+rr2---sn-q4flrnss.googlevideo.com
+rr2---sn-q4fl6ndz.googlevideo.com
+rr2---sn-5hneknes.googlevideo.com
+rr2---sn-5hne6nzs.googlevideo.com
+rr2---sn-ntqe6n7r.googlevideo.com
+rr2---sn-gvnuxaxjvh-nbje.googlevideo.com
+rr4---sn-5hne6nsd.googlevideo.com
+rr4---sn-ntqe6nee.googlevideo.com
+rr4---sn-q4fl6nzy.googlevideo.com
+rr4---sn-n8v7snl7.googlevideo.com
+rr4---sn-q4flrnss.googlevideo.com
+rr4---sn-q4fl6ndz.googlevideo.com
+rr4---sn-5hneknes.googlevideo.com
+rr4---sn-5hne6nzs.googlevideo.com
+rr4---sn-ntqe6n7r.googlevideo.com
+rr4---sn-gvnuxaxjvh-nbje.googlevideo.com
+rr5---sn-5hne6nsd.googlevideo.com
+rr5---sn-ntqe6nee.googlevideo.com
+rr5---sn-q4fl6nzy.googlevideo.com
+rr5---sn-n8v7snl7.googlevideo.com
+rr5---sn-q4flrnss.googlevideo.com
+rr5---sn-q4fl6ndz.googlevideo.com
+rr5---sn-5hneknes.googlevideo.com
+rr5---sn-5hne6nzs.googlevideo.com
+rr5---sn-ntqe6n7r.googlevideo.com
+rr5---sn-gvnuxaxjvh-nbje.googlevideo.com
+50.7.85.220 chatgpt.com
+50.7.85.220 ab.chatgpt.com
+50.7.85.220 auth.openai.com
+50.7.85.220 auth0.openai.com
+50.7.85.220 platform.openai.com
+50.7.85.220 cdn.oaistatic.com
+50.7.85.220 files.oaiusercontent.com
+50.7.85.220 cdn.auth0.com
+50.7.85.220 tcr9i.chat.openai.com
+50.7.85.220 webrtc.chatgpt.com
+50.7.85.220 android.chat.openai.com
+chatgpt.com
+ab.chatgpt.com
+auth.openai.com
+auth0.openai.com
+platform.openai.com
+cdn.oaistatic.com
+files.oaiusercontent.com
+cdn.auth0.com
+tcr9i.chat.openai.com
+webrtc.chatgpt.com
+android.chat.openai.com
+chatgpt.com
+openai.com
+auth.openai.com
+cdn.oaistatic.com
+files.oaiusercontent.com
+oaiusercontent.com
+oaistatic.com
+chat.openai.com
+ab.chatgpt.com
+platform.openai.com
+api.openai.com
+chat.openai.com
+api.openai.com
+auth0.openai.com
+oaiusercontent.com
+platform.openai.com
+185.246.223.127 a-api.anthropic.com
+185.246.223.127 a-cdn.anthropic.com
+185.246.223.127 anthropic.com
+185.246.223.127 api.anthropic.com
+185.246.223.127 api.claude.ai
+185.246.223.127 api.console.anthropic.com
+185.246.223.127 auth.anthropic.com
+185.246.223.127 claude.ai
+185.246.223.127 console.anthropic.com
+185.246.223.127 s-cdn.anthropic.com
+185.246.223.127 statsig.anthropic.com
+185.246.223.127 status.anthropic.com
+185.246.223.127 support.anthropic.com
+185.246.223.127 www.anthropic.com
+185.246.223.127 www.claude.ai
+185.246.223.127 platform.claude.com
+185.246.223.127 accounts.x.ai
+185.246.223.127 api.x.ai
+185.246.223.127 asia-south1-livekit.grok.com
+185.246.223.127 assets.grok.com
+185.246.223.127 assets.x.ai
+185.246.223.127 console.x.ai
+185.246.223.127 data.x.ai
+185.246.223.127 deferred-chat.x.ai
+185.246.223.127 docs.x.ai
+185.246.223.127 eu-west-1.api.x.ai
+185.246.223.127 grok.com
+185.246.223.127 grok.x.ai
+185.246.223.127 imgen.x.ai
+185.246.223.127 jf.x.ai
+185.246.223.127 livekit.grok.com
+185.246.223.127 login.x.ai
+185.246.223.127 ssff.grok.com
+185.246.223.127 status.x.ai
+185.246.223.127 transcription.grok-v2.x.ai
+185.246.223.127 trust.x.ai
+185.246.223.127 typeahead.grok.com
+185.246.223.127 us-east-1.api.x.ai
+185.246.223.127 us-east-4-raw.api.x.ai
+185.246.223.127 us-south-1-pltr.api.x.ai
+185.246.223.127 us-west-1-raw.api.x.ai
+185.246.223.127 us-west-1.api.x.ai
+185.246.223.127 www.grok.com
+185.246.223.127 www.x.ai
+185.246.223.127 api.manus.im
+185.246.223.127 manus.im
+185.246.223.127 files.manuscdn.com
+185.246.223.127 ab.chatgpt.com
+185.246.223.127 android.chat.openai.com
+185.246.223.127 api.openai.com
+185.246.223.127 arena.openai.com
+185.246.223.127 auth.openai.com
+185.246.223.127 auth0.openai.com
+185.246.223.127 beta.api.openai.com
+185.246.223.127 beta.openai.com
+185.246.223.127 blog.openai.com
+185.246.223.127 cdn.auth0.com
+185.246.223.127 cdn.oaistatic.com
+185.246.223.127 cdn.openai.com
+185.246.223.127 chat.openai.com
+185.246.223.127 chatgpt.com
+185.246.223.127 community.openai.com
+185.246.223.127 contest.openai.com
+185.246.223.127 d.docs.live.net
+185.246.223.127 debate-game.openai.com
+185.246.223.127 discuss.openai.com
+185.246.223.127 files.oaiusercontent.com
+185.246.223.127 gpt3-openai.com
+185.246.223.127 gym.openai.com
+185.246.223.127 help.openai.com
+185.246.223.127 ios.chat.openai.com
+185.246.223.127 jukebox.openai.com
+185.246.223.127 labs.openai.com
+185.246.223.127 microscope.openai.com
+185.246.223.127 mobile.events.data.microsoft.com
+185.246.223.127 oaistatic.com
+185.246.223.127 openai.com
+185.246.223.127 operator.chatgpt.com
+185.246.223.127 platform.api.openai.com
+185.246.223.127 platform.openai.com
+185.246.223.127 realtime.chatgpt.com
+185.246.223.127 ws.chatgpt.com
+185.246.223.127 sora.chatgpt.com
+185.246.223.127 sora.com
+185.246.223.127 spinningup.openai.com
+185.246.223.127 tcr9i.chat.openai.com
+185.246.223.127 universe.openai.com
+185.246.223.127 videos.openai.com
+185.246.223.127 webrtc.chatgpt.com
+185.246.223.127 www.chatgpt.com
+185.246.223.127 www.openai.com
+должно помочь. (Claude, Grok, ChatGPT работают Gemini тоже.)
+А так-же в list-general
+ai.google.dev
+aisandbox-pa.googleapis.com
+aistudio.google.com
+aitestkitchen.withgoogle.com
+alkalicore-pa.clients6.google.com
+alkalimakersuite-pa.clients6.google.com
+apis.google.com
+appcatalyst.pa.googleapis.com
+assistant-s3-pa.googleapis.com
+bard.google.com
+daily-cloudcode-pa.googleapis.com
+deepmind.com
+deepmind.google
+developerprofiles-pa.googleapis.com
+geller-pa.googleapis.com
+gemini.google
+gemini.google.com
+generativeai.google
+generativelanguage.googleapis.com
+jules.google
+jules.google.com
+labs.google
+labs.google.com
+lookerstudio.google.com
+makersuite.google.com
+notebooklm-pa.googleapis.com
+notebooklm.google
+notebooklm.google.com
+o.pki.goog
+opal.google
+opal.google.com
+opal.withgoogle.com
+people-pa.clients6.google.com
+proactivebackend-pa.googleapis.com
+robinfrontend-pa.googleapis.com
+signaler-pa.clients6.google.com
+stitch.withgoogle.com
+suggestqueries.google.com
+waa-pa.clients6.google.com
+webchannel-alkalimakersuite-pa.clients6.google.com
